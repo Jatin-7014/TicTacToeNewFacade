@@ -1,0 +1,14 @@
+D:\C#\TicTacToeFacadeDp\obj\Debug\net8.0\TicTacToeFacadeDp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\TicTacToeFacadeDp\obj\Debug\net8.0\TicTacToeFacadeDp.AssemblyInfoInputs.cache
+D:\C#\TicTacToeFacadeDp\obj\Debug\net8.0\TicTacToeFacadeDp.AssemblyInfo.cs
+D:\C#\TicTacToeFacadeDp\obj\Debug\net8.0\TicTacToeFacadeDp.csproj.CoreCompileInputs.cache
+D:\C#\TicTacToeFacadeDp\bin\Debug\net8.0\TicTacToeFacadeDp.exe
+D:\C#\TicTacToeFacadeDp\bin\Debug\net8.0\TicTacToeFacadeDp.deps.json
+D:\C#\TicTacToeFacadeDp\bin\Debug\net8.0\TicTacToeFacadeDp.runtimeconfig.json
+D:\C#\TicTacToeFacadeDp\bin\Debug\net8.0\TicTacToeFacadeDp.dll
+D:\C#\TicTacToeFacadeDp\bin\Debug\net8.0\TicTacToeFacadeDp.pdb
+D:\C#\TicTacToeFacadeDp\obj\Debug\net8.0\TicTacToeFacadeDp.dll
+D:\C#\TicTacToeFacadeDp\obj\Debug\net8.0\refint\TicTacToeFacadeDp.dll
+D:\C#\TicTacToeFacadeDp\obj\Debug\net8.0\TicTacToeFacadeDp.pdb
+D:\C#\TicTacToeFacadeDp\obj\Debug\net8.0\TicTacToeFacadeDp.genruntimeconfig.cache
+D:\C#\TicTacToeFacadeDp\obj\Debug\net8.0\ref\TicTacToeFacadeDp.dll

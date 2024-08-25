@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\TicTacToeFacadeDp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E01A64E-23DB-4C32-86A3-BDC30909745C}|TicTacToeFacadeDp.csproj|d:\\c#\\tictactoefacadedp\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E01A64E-23DB-4C32-86A3-BDC30909745C}|TicTacToeFacadeDp.csproj|solutionrelative:cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E01A64E-23DB-4C32-86A3-BDC30909745C}|TicTacToeFacadeDp.csproj|d:\\c#\\tictactoefacadedp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E01A64E-23DB-4C32-86A3-BDC30909745C}|TicTacToeFacadeDp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E01A64E-23DB-4C32-86A3-BDC30909745C}|TicTacToeFacadeDp.csproj|d:\\c#\\tictactoefacadedp\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E01A64E-23DB-4C32-86A3-BDC30909745C}|TicTacToeFacadeDp.csproj|solutionrelative:board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E01A64E-23DB-4C32-86A3-BDC30909745C}|TicTacToeFacadeDp.csproj|d:\\c#\\tictactoefacadedp\\resultanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E01A64E-23DB-4C32-86A3-BDC30909745C}|TicTacToeFacadeDp.csproj|solutionrelative:resultanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E01A64E-23DB-4C32-86A3-BDC30909745C}|TicTacToeFacadeDp.csproj|d:\\c#\\tictactoefacadedp\\resulttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E01A64E-23DB-4C32-86A3-BDC30909745C}|TicTacToeFacadeDp.csproj|solutionrelative:resulttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResultType.cs",
+              "DocumentMoniker": "D:\\C#\\TicTacToeFacadeDp\\ResultType.cs",
+              "RelativeDocumentMoniker": "ResultType.cs",
+              "ToolTip": "D:\\C#\\TicTacToeFacadeDp\\ResultType.cs",
+              "RelativeToolTip": "ResultType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T15:33:27.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResultAnalyzer.cs",
+              "DocumentMoniker": "D:\\C#\\TicTacToeFacadeDp\\ResultAnalyzer.cs",
+              "RelativeDocumentMoniker": "ResultAnalyzer.cs",
+              "ToolTip": "D:\\C#\\TicTacToeFacadeDp\\ResultAnalyzer.cs",
+              "RelativeToolTip": "ResultAnalyzer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T15:33:16.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Board.cs",
+              "DocumentMoniker": "D:\\C#\\TicTacToeFacadeDp\\Board.cs",
+              "RelativeDocumentMoniker": "Board.cs",
+              "ToolTip": "D:\\C#\\TicTacToeFacadeDp\\Board.cs",
+              "RelativeToolTip": "Board.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAiwC4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T15:32:54.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cell.cs",
+              "DocumentMoniker": "D:\\C#\\TicTacToeFacadeDp\\Cell.cs",
+              "RelativeDocumentMoniker": "Cell.cs",
+              "ToolTip": "D:\\C#\\TicTacToeFacadeDp\\Cell.cs",
+              "RelativeToolTip": "Cell.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA1wBgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T15:32:25.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\TicTacToeFacadeDp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\C#\\TicTacToeFacadeDp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T15:31:41.238Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
